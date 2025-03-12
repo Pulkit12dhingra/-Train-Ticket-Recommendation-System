@@ -114,11 +114,11 @@ pytest tests/
 
 
 📜 How the System Works
-1️⃣ Prepares Data → Cleans, preprocesses, and extracts features from CSV files.
-2️⃣ Embeds Features → Uses LangChain embeddings for numerical representation.
-3️⃣ Stores in FAISS → Uses FAISS for fast similarity search.
-4️⃣ Retrieves Recommendations → Finds nearest top-k matches for user input.
-5️⃣ Provides API & CLI → Users can get recommendations via API or interactive CLI.
+* 1️⃣ Prepares Data → Cleans, preprocesses, and extracts features from CSV files.
+* 2️⃣ Embeds Features → Uses LangChain embeddings for numerical representation.
+* 3️⃣ Stores in FAISS → Uses FAISS for fast similarity search.
+* 4️⃣ Retrieves Recommendations → Finds nearest top-k matches for user input.
+* 5️⃣ Provides API & CLI → Users can get recommendations via API or interactive CLI.
 
 📌 Technologies Used
 ✅ Python → Core programming language
