@@ -1,0 +1,101 @@
+User ID,Payment Method,Amount Paid,Transaction Status
+b60dd382-62ae-4942-94d1-30cba864bd3b,PayPal,158.58,Failed
+d5301664-836a-440f-9516-4be0fd59d46e,Digital Wallet,93.72,Failed
+6f170d7c-9ed9-4dec-a52a-e493d83d1abc,Digital Wallet,199.11,Failed
+b60dd382-62ae-4942-94d1-30cba864bd3b,Bank Transfer,19.85,Failed
+b60dd382-62ae-4942-94d1-30cba864bd3b,Credit Card,25.79,Failed
+6f170d7c-9ed9-4dec-a52a-e493d83d1abc,Debit Card,71.16,Failed
+9bdea446-5a45-4682-8478-84db3bbfbdce,Debit Card,159.4,Successful
+b60dd382-62ae-4942-94d1-30cba864bd3b,Bank Transfer,27.09,Pending
+b60dd382-62ae-4942-94d1-30cba864bd3b,Bank Transfer,188.19,Successful
+81d1d908-7fe7-4d04-98c6-8741c903afb3,Credit Card,16.37,Failed
+81d1d908-7fe7-4d04-98c6-8741c903afb3,Credit Card,192.72,Pending
+d5301664-836a-440f-9516-4be0fd59d46e,Debit Card,101.41,Pending
+9bdea446-5a45-4682-8478-84db3bbfbdce,Credit Card,126.82,Pending
+81d1d908-7fe7-4d04-98c6-8741c903afb3,Digital Wallet,21.91,Successful
+d5301664-836a-440f-9516-4be0fd59d46e,Digital Wallet,90.79,Successful
+b60dd382-62ae-4942-94d1-30cba864bd3b,Credit Card,98.78,Successful
+d5301664-836a-440f-9516-4be0fd59d46e,Debit Card,35.35,Failed
+81d1d908-7fe7-4d04-98c6-8741c903afb3,Debit Card,45.03,Failed
+81d1d908-7fe7-4d04-98c6-8741c903afb3,Bank Transfer,108.66,Successful
+6f170d7c-9ed9-4dec-a52a-e493d83d1abc,Bank Transfer,48.82,Pending
+81d1d908-7fe7-4d04-98c6-8741c903afb3,Digital Wallet,138.48,Failed
+9bdea446-5a45-4682-8478-84db3bbfbdce,Debit Card,162.48,Successful
+9bdea446-5a45-4682-8478-84db3bbfbdce,Credit Card,72.37,Successful
+d5301664-836a-440f-9516-4be0fd59d46e,Bank Transfer,72.33,Pending
+d5301664-836a-440f-9516-4be0fd59d46e,Credit Card,168.89,Failed
+b60dd382-62ae-4942-94d1-30cba864bd3b,Digital Wallet,123.24,Failed
+9bdea446-5a45-4682-8478-84db3bbfbdce,PayPal,63.17,Successful
+9bdea446-5a45-4682-8478-84db3bbfbdce,Bank Transfer,149.52,Successful
+6f170d7c-9ed9-4dec-a52a-e493d83d1abc,Digital Wallet,21.33,Successful
+d5301664-836a-440f-9516-4be0fd59d46e,PayPal,153.6,Successful
+b60dd382-62ae-4942-94d1-30cba864bd3b,Digital Wallet,88.93,Successful
+b60dd382-62ae-4942-94d1-30cba864bd3b,Bank Transfer,170.18,Failed
+81d1d908-7fe7-4d04-98c6-8741c903afb3,Credit Card,68.04,Pending
+d5301664-836a-440f-9516-4be0fd59d46e,Credit Card,65.97,Successful
+d5301664-836a-440f-9516-4be0fd59d46e,Debit Card,88.24,Pending
+9bdea446-5a45-4682-8478-84db3bbfbdce,Credit Card,70.38,Failed
+81d1d908-7fe7-4d04-98c6-8741c903afb3,Digital Wallet,153.0,Pending
+6f170d7c-9ed9-4dec-a52a-e493d83d1abc,Credit Card,175.62,Pending
+9bdea446-5a45-4682-8478-84db3bbfbdce,Bank Transfer,55.6,Pending
+d5301664-836a-440f-9516-4be0fd59d46e,Digital Wallet,107.36,Successful
+81d1d908-7fe7-4d04-98c6-8741c903afb3,PayPal,57.3,Failed
+6f170d7c-9ed9-4dec-a52a-e493d83d1abc,Bank Transfer,90.44,Failed
+81d1d908-7fe7-4d04-98c6-8741c903afb3,Bank Transfer,180.12,Failed
+b60dd382-62ae-4942-94d1-30cba864bd3b,Debit Card,13.44,Successful
+d5301664-836a-440f-9516-4be0fd59d46e,Digital Wallet,121.9,Pending
+9bdea446-5a45-4682-8478-84db3bbfbdce,Bank Transfer,165.6,Successful
+6f170d7c-9ed9-4dec-a52a-e493d83d1abc,Credit Card,60.73,Pending
+b60dd382-62ae-4942-94d1-30cba864bd3b,Digital Wallet,173.71,Successful
+d5301664-836a-440f-9516-4be0fd59d46e,Digital Wallet,181.42,Pending
+d5301664-836a-440f-9516-4be0fd59d46e,Credit Card,187.44,Failed
+d5301664-836a-440f-9516-4be0fd59d46e,Debit Card,130.0,Failed
+81d1d908-7fe7-4d04-98c6-8741c903afb3,Credit Card,115.87,Successful
+b60dd382-62ae-4942-94d1-30cba864bd3b,PayPal,12.16,Pending
+6f170d7c-9ed9-4dec-a52a-e493d83d1abc,Debit Card,134.32,Pending
+6f170d7c-9ed9-4dec-a52a-e493d83d1abc,Credit Card,197.48,Failed
+6f170d7c-9ed9-4dec-a52a-e493d83d1abc,Digital Wallet,121.27,Failed
+6f170d7c-9ed9-4dec-a52a-e493d83d1abc,Digital Wallet,142.01,Failed
+9bdea446-5a45-4682-8478-84db3bbfbdce,Digital Wallet,52.72,Successful
+81d1d908-7fe7-4d04-98c6-8741c903afb3,Bank Transfer,11.18,Failed
+9bdea446-5a45-4682-8478-84db3bbfbdce,Debit Card,100.39,Successful
+6f170d7c-9ed9-4dec-a52a-e493d83d1abc,PayPal,58.16,Pending
+6f170d7c-9ed9-4dec-a52a-e493d83d1abc,PayPal,145.41,Failed
+d5301664-836a-440f-9516-4be0fd59d46e,Digital Wallet,191.78,Successful
+6f170d7c-9ed9-4dec-a52a-e493d83d1abc,Bank Transfer,47.0,Successful
+6f170d7c-9ed9-4dec-a52a-e493d83d1abc,Digital Wallet,157.86,Successful
+6f170d7c-9ed9-4dec-a52a-e493d83d1abc,Digital Wallet,78.84,Successful
+6f170d7c-9ed9-4dec-a52a-e493d83d1abc,Bank Transfer,197.91,Successful
+81d1d908-7fe7-4d04-98c6-8741c903afb3,PayPal,134.25,Successful
+b60dd382-62ae-4942-94d1-30cba864bd3b,Bank Transfer,143.21,Successful
+81d1d908-7fe7-4d04-98c6-8741c903afb3,Credit Card,113.0,Pending
+b60dd382-62ae-4942-94d1-30cba864bd3b,Bank Transfer,134.87,Pending
+9bdea446-5a45-4682-8478-84db3bbfbdce,Debit Card,198.81,Successful
+b60dd382-62ae-4942-94d1-30cba864bd3b,PayPal,194.26,Pending
+81d1d908-7fe7-4d04-98c6-8741c903afb3,Credit Card,51.77,Pending
+b60dd382-62ae-4942-94d1-30cba864bd3b,PayPal,27.0,Pending
+81d1d908-7fe7-4d04-98c6-8741c903afb3,Debit Card,45.3,Successful
+81d1d908-7fe7-4d04-98c6-8741c903afb3,PayPal,65.95,Pending
+b60dd382-62ae-4942-94d1-30cba864bd3b,Digital Wallet,91.73,Failed
+d5301664-836a-440f-9516-4be0fd59d46e,Debit Card,33.19,Pending
+b60dd382-62ae-4942-94d1-30cba864bd3b,Bank Transfer,177.66,Pending
+9bdea446-5a45-4682-8478-84db3bbfbdce,Credit Card,60.11,Failed
+6f170d7c-9ed9-4dec-a52a-e493d83d1abc,Digital Wallet,140.7,Failed
+9bdea446-5a45-4682-8478-84db3bbfbdce,PayPal,103.38,Pending
+b60dd382-62ae-4942-94d1-30cba864bd3b,PayPal,57.4,Successful
+81d1d908-7fe7-4d04-98c6-8741c903afb3,Bank Transfer,199.97,Failed
+b60dd382-62ae-4942-94d1-30cba864bd3b,Bank Transfer,132.69,Pending
+6f170d7c-9ed9-4dec-a52a-e493d83d1abc,Credit Card,121.26,Failed
+81d1d908-7fe7-4d04-98c6-8741c903afb3,Credit Card,150.64,Pending
+d5301664-836a-440f-9516-4be0fd59d46e,Debit Card,53.36,Failed
+81d1d908-7fe7-4d04-98c6-8741c903afb3,PayPal,35.74,Failed
+81d1d908-7fe7-4d04-98c6-8741c903afb3,Digital Wallet,46.67,Pending
+d5301664-836a-440f-9516-4be0fd59d46e,Credit Card,162.64,Successful
+b60dd382-62ae-4942-94d1-30cba864bd3b,Debit Card,59.25,Failed
+9bdea446-5a45-4682-8478-84db3bbfbdce,Debit Card,173.27,Failed
+81d1d908-7fe7-4d04-98c6-8741c903afb3,Digital Wallet,13.78,Pending
+b60dd382-62ae-4942-94d1-30cba864bd3b,Bank Transfer,25.41,Successful
+9bdea446-5a45-4682-8478-84db3bbfbdce,Debit Card,16.97,Pending
+6f170d7c-9ed9-4dec-a52a-e493d83d1abc,Credit Card,51.21,Failed
+b60dd382-62ae-4942-94d1-30cba864bd3b,Credit Card,143.41,Failed
+81d1d908-7fe7-4d04-98c6-8741c903afb3,Credit Card,169.54,Successful

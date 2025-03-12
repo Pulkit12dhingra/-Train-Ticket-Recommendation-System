@@ -1,0 +1,101 @@
+Train Name,Class,Base Price,Surge Price,Final Price,Final_Price
+Express,Business,143.98,34.28,<function <lambda> at 0x11e550040>,178.26
+Regional,Economy,140.21,24.44,<function <lambda> at 0x11e550040>,164.65
+Night Train,Sleeper,112.7,32.18,<function <lambda> at 0x11e550040>,144.88
+Express,Economy,79.67,10.18,<function <lambda> at 0x11e550040>,89.85
+Regional,Business,115.7,19.15,<function <lambda> at 0x11e550040>,134.85
+Intercity,Economy,66.27,26.06,<function <lambda> at 0x11e550040>,92.33
+Intercity,Economy,147.46,6.1,<function <lambda> at 0x11e550040>,153.56
+Night Train,Sleeper,144.96,38.82,<function <lambda> at 0x11e550040>,183.78
+Superfast,Economy,27.21,22.05,<function <lambda> at 0x11e550040>,49.260000000000005
+Express,Economy,147.28,17.62,<function <lambda> at 0x11e550040>,164.9
+Superfast,Economy,50.71,29.92,<function <lambda> at 0x11e550040>,80.63
+Night Train,Business,77.06,49.69,<function <lambda> at 0x11e550040>,126.75
+Intercity,Economy,65.52,19.02,<function <lambda> at 0x11e550040>,84.53999999999999
+Superfast,Economy,47.53,13.75,<function <lambda> at 0x11e550040>,61.28
+Express,Economy,82.44,6.56,<function <lambda> at 0x11e550040>,89.0
+Night Train,Sleeper,90.38,2.57,<function <lambda> at 0x11e550040>,92.94999999999999
+Express,Business,60.78,26.28,<function <lambda> at 0x11e550040>,87.06
+Regional,Business,112.05,14.52,<function <lambda> at 0x11e550040>,126.57
+Regional,Sleeper,68.51,39.62,<function <lambda> at 0x11e550040>,108.13
+Night Train,Sleeper,46.38,42.29,<function <lambda> at 0x11e550040>,88.67
+Intercity,Economy,109.25,23.36,<function <lambda> at 0x11e550040>,132.61
+Superfast,Business,143.59,49.83,<function <lambda> at 0x11e550040>,193.42000000000002
+Intercity,Economy,121.04,20.45,<function <lambda> at 0x11e550040>,141.49
+Regional,Sleeper,140.15,4.74,<function <lambda> at 0x11e550040>,144.89000000000001
+Regional,Sleeper,52.19,10.96,<function <lambda> at 0x11e550040>,63.15
+Express,Business,134.45,39.67,<function <lambda> at 0x11e550040>,174.12
+Express,Sleeper,30.69,22.46,<function <lambda> at 0x11e550040>,53.150000000000006
+Intercity,Sleeper,29.08,4.41,<function <lambda> at 0x11e550040>,33.489999999999995
+Superfast,Economy,37.42,28.33,<function <lambda> at 0x11e550040>,65.75
+Express,Sleeper,131.55,33.95,<function <lambda> at 0x11e550040>,165.5
+Intercity,Sleeper,124.57,19.39,<function <lambda> at 0x11e550040>,143.95999999999998
+Intercity,Business,25.73,20.12,<function <lambda> at 0x11e550040>,45.85
+Express,Economy,142.71,37.5,<function <lambda> at 0x11e550040>,180.21
+Express,Economy,50.01,5.4,<function <lambda> at 0x11e550040>,55.41
+Intercity,Sleeper,124.48,30.47,<function <lambda> at 0x11e550040>,154.95
+Superfast,Business,27.53,1.74,<function <lambda> at 0x11e550040>,29.27
+Night Train,Sleeper,146.76,23.09,<function <lambda> at 0x11e550040>,169.85
+Night Train,Economy,63.24,1.39,<function <lambda> at 0x11e550040>,64.63
+Intercity,Business,133.83,49.22,<function <lambda> at 0x11e550040>,183.05
+Express,Economy,24.91,10.34,<function <lambda> at 0x11e550040>,35.25
+Night Train,Business,37.94,33.52,<function <lambda> at 0x11e550040>,71.46000000000001
+Express,Sleeper,53.09,22.54,<function <lambda> at 0x11e550040>,75.63
+Express,Economy,79.6,31.43,<function <lambda> at 0x11e550040>,111.03
+Regional,Business,128.9,20.88,<function <lambda> at 0x11e550040>,149.78
+Intercity,Business,127.07,40.53,<function <lambda> at 0x11e550040>,167.6
+Intercity,Business,71.13,38.54,<function <lambda> at 0x11e550040>,109.66999999999999
+Regional,Sleeper,19.72,47.66,<function <lambda> at 0x11e550040>,67.38
+Intercity,Sleeper,41.51,41.0,<function <lambda> at 0x11e550040>,82.50999999999999
+Superfast,Business,58.08,28.47,<function <lambda> at 0x11e550040>,86.55
+Night Train,Business,124.72,34.42,<function <lambda> at 0x11e550040>,159.14
+Superfast,Economy,141.41,18.06,<function <lambda> at 0x11e550040>,159.47
+Superfast,Sleeper,125.59,7.25,<function <lambda> at 0x11e550040>,132.84
+Superfast,Business,104.83,43.24,<function <lambda> at 0x11e550040>,148.07
+Intercity,Business,130.52,39.87,<function <lambda> at 0x11e550040>,170.39000000000001
+Superfast,Economy,95.36,48.11,<function <lambda> at 0x11e550040>,143.47
+Intercity,Sleeper,119.02,8.11,<function <lambda> at 0x11e550040>,127.13
+Intercity,Business,71.59,36.94,<function <lambda> at 0x11e550040>,108.53
+Regional,Business,130.23,18.56,<function <lambda> at 0x11e550040>,148.79
+Regional,Sleeper,137.87,19.12,<function <lambda> at 0x11e550040>,156.99
+Regional,Economy,38.47,32.14,<function <lambda> at 0x11e550040>,70.61
+Intercity,Economy,76.18,14.34,<function <lambda> at 0x11e550040>,90.52000000000001
+Night Train,Business,126.93,38.13,<function <lambda> at 0x11e550040>,165.06
+Night Train,Business,134.65,47.12,<function <lambda> at 0x11e550040>,181.77
+Intercity,Business,104.18,20.31,<function <lambda> at 0x11e550040>,124.49000000000001
+Night Train,Business,71.49,30.21,<function <lambda> at 0x11e550040>,101.69999999999999
+Night Train,Business,126.85,36.72,<function <lambda> at 0x11e550040>,163.57
+Night Train,Economy,140.92,32.98,<function <lambda> at 0x11e550040>,173.89999999999998
+Regional,Business,11.65,13.87,<function <lambda> at 0x11e550040>,25.52
+Night Train,Business,58.56,35.19,<function <lambda> at 0x11e550040>,93.75
+Regional,Sleeper,97.07,34.53,<function <lambda> at 0x11e550040>,131.6
+Superfast,Economy,96.13,8.21,<function <lambda> at 0x11e550040>,104.34
+Superfast,Business,114.39,11.77,<function <lambda> at 0x11e550040>,126.16
+Night Train,Economy,34.48,4.88,<function <lambda> at 0x11e550040>,39.36
+Night Train,Business,12.07,0.9,<function <lambda> at 0x11e550040>,12.97
+Regional,Economy,72.91,19.45,<function <lambda> at 0x11e550040>,92.36
+Regional,Economy,134.49,13.29,<function <lambda> at 0x11e550040>,147.78
+Night Train,Economy,136.15,41.42,<function <lambda> at 0x11e550040>,177.57
+Intercity,Business,55.86,23.23,<function <lambda> at 0x11e550040>,79.09
+Express,Business,132.6,26.38,<function <lambda> at 0x11e550040>,158.98
+Regional,Sleeper,23.46,34.61,<function <lambda> at 0x11e550040>,58.07
+Regional,Economy,59.93,10.18,<function <lambda> at 0x11e550040>,70.11
+Regional,Business,139.05,34.03,<function <lambda> at 0x11e550040>,173.08
+Express,Sleeper,103.18,2.72,<function <lambda> at 0x11e550040>,105.9
+Superfast,Sleeper,109.72,20.47,<function <lambda> at 0x11e550040>,130.19
+Intercity,Economy,38.52,26.1,<function <lambda> at 0x11e550040>,64.62
+Regional,Economy,27.66,31.85,<function <lambda> at 0x11e550040>,59.510000000000005
+Night Train,Economy,30.99,40.09,<function <lambda> at 0x11e550040>,71.08
+Night Train,Economy,76.42,41.14,<function <lambda> at 0x11e550040>,117.56
+Intercity,Sleeper,132.65,15.83,<function <lambda> at 0x11e550040>,148.48000000000002
+Intercity,Economy,58.24,32.21,<function <lambda> at 0x11e550040>,90.45
+Night Train,Sleeper,101.74,1.9,<function <lambda> at 0x11e550040>,103.64
+Intercity,Sleeper,108.53,6.49,<function <lambda> at 0x11e550040>,115.02
+Superfast,Sleeper,145.92,13.42,<function <lambda> at 0x11e550040>,159.33999999999997
+Intercity,Economy,13.53,34.55,<function <lambda> at 0x11e550040>,48.08
+Regional,Business,146.48,48.63,<function <lambda> at 0x11e550040>,195.10999999999999
+Intercity,Sleeper,118.41,42.38,<function <lambda> at 0x11e550040>,160.79
+Night Train,Economy,123.27,35.78,<function <lambda> at 0x11e550040>,159.05
+Superfast,Business,112.42,2.57,<function <lambda> at 0x11e550040>,114.99
+Night Train,Sleeper,73.26,36.86,<function <lambda> at 0x11e550040>,110.12
+Night Train,Economy,131.51,42.71,<function <lambda> at 0x11e550040>,174.22

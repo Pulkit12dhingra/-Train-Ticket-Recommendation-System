@@ -1,0 +1,101 @@
+Train Name,Departure Station,Arrival Station,Departure Time,Arrival Time,Duration (hrs),Seat Availability
+Express,CityI,CityF,13:53:09,16:03:34,10,96
+Express,CityA,CityJ,03:46:56,23:35:11,9,49
+Superfast,CityA,CityH,06:52:18,04:25:47,10,92
+Superfast,CityA,CityH,06:30:47,13:04:48,11,44
+Night Train,CityG,CityD,10:59:43,19:36:05,10,9
+Express,CityA,CityB,06:00:05,18:21:18,12,98
+Regional,CityA,CityJ,21:22:25,13:58:49,6,63
+Regional,CityI,CityD,18:32:11,18:21:01,3,79
+Intercity,CityA,CityD,16:42:08,21:51:08,6,11
+Regional,CityI,CityH,23:40:04,16:00:18,10,40
+Intercity,CityI,CityD,07:08:45,15:25:50,10,2
+Night Train,CityE,CityJ,12:06:04,05:19:34,3,84
+Superfast,CityC,CityF,00:25:49,19:18:36,3,71
+Intercity,CityI,CityB,11:54:23,07:07:12,10,35
+Night Train,CityE,CityF,14:08:43,11:02:51,9,26
+Intercity,CityI,CityH,15:13:17,19:26:27,4,54
+Night Train,CityE,CityH,06:29:53,09:21:51,6,30
+Superfast,CityE,CityB,17:11:08,08:29:32,5,0
+Superfast,CityG,CityB,04:04:07,05:57:53,9,32
+Regional,CityC,CityD,05:14:14,08:05:21,11,5
+Superfast,CityI,CityD,08:50:23,01:07:12,11,51
+Intercity,CityE,CityB,00:35:31,00:07:49,6,78
+Night Train,CityA,CityH,13:45:11,05:28:48,10,53
+Superfast,CityE,CityJ,04:26:23,15:44:33,8,13
+Express,CityC,CityD,18:11:52,09:03:11,9,40
+Intercity,CityI,CityD,22:22:06,01:38:10,7,34
+Superfast,CityG,CityB,02:54:52,19:43:55,12,78
+Regional,CityC,CityJ,07:43:44,06:03:24,9,67
+Night Train,CityC,CityH,20:29:18,21:35:30,8,97
+Night Train,CityG,CityH,19:46:37,20:35:22,12,5
+Superfast,CityC,CityH,03:55:22,17:36:34,5,0
+Intercity,CityI,CityH,07:45:17,19:47:46,12,80
+Regional,CityC,CityF,17:22:57,20:37:56,8,36
+Intercity,CityC,CityJ,20:32:24,01:51:14,11,5
+Express,CityI,CityH,13:16:03,11:47:10,8,32
+Regional,CityC,CityF,14:19:18,05:21:34,9,28
+Superfast,CityA,CityH,00:51:11,23:11:24,3,41
+Express,CityA,CityD,00:52:07,03:16:59,4,55
+Night Train,CityI,CityB,19:54:02,21:14:09,8,91
+Night Train,CityG,CityH,11:18:20,11:04:24,5,13
+Night Train,CityG,CityD,15:34:37,20:32:13,2,37
+Superfast,CityC,CityJ,12:02:32,02:34:45,11,72
+Intercity,CityC,CityF,18:30:48,19:01:42,8,28
+Superfast,CityA,CityF,17:57:44,13:22:09,6,66
+Superfast,CityC,CityD,13:21:05,22:04:26,7,57
+Night Train,CityG,CityF,10:42:17,00:08:50,11,91
+Superfast,CityG,CityF,21:36:51,19:22:46,6,6
+Regional,CityC,CityH,21:13:00,16:18:33,5,6
+Intercity,CityE,CityD,17:38:26,06:13:56,12,20
+Intercity,CityE,CityF,04:05:31,00:39:40,3,71
+Intercity,CityG,CityB,13:17:32,23:49:42,6,42
+Express,CityG,CityF,01:51:25,08:35:37,5,67
+Regional,CityG,CityJ,07:08:53,17:09:22,5,74
+Intercity,CityA,CityH,15:34:00,01:59:44,11,40
+Intercity,CityC,CityF,01:25:57,14:34:51,12,64
+Night Train,CityE,CityB,15:45:16,06:23:31,8,98
+Regional,CityA,CityJ,12:12:35,15:23:44,11,95
+Regional,CityA,CityD,07:01:06,19:02:27,2,75
+Superfast,CityA,CityJ,20:30:29,14:20:00,4,5
+Express,CityG,CityF,05:06:14,08:25:48,4,62
+Regional,CityI,CityD,08:50:10,23:36:36,10,52
+Night Train,CityG,CityB,20:38:32,17:20:40,8,31
+Regional,CityA,CityD,21:11:15,10:27:24,4,26
+Night Train,CityG,CityJ,13:31:26,19:50:22,9,71
+Night Train,CityG,CityF,21:15:41,22:03:13,6,27
+Intercity,CityI,CityB,08:14:16,20:48:18,5,30
+Intercity,CityG,CityF,15:00:04,15:51:55,11,9
+Regional,CityC,CityJ,17:08:15,13:12:41,6,27
+Intercity,CityC,CityB,19:40:47,02:08:05,11,100
+Regional,CityI,CityD,13:09:33,15:07:42,12,77
+Express,CityG,CityF,16:49:44,13:00:25,8,68
+Superfast,CityG,CityJ,18:46:56,20:48:23,2,69
+Express,CityA,CityH,04:40:42,00:16:55,7,68
+Express,CityG,CityH,13:07:36,03:06:21,11,18
+Superfast,CityI,CityD,02:06:57,21:19:46,5,54
+Superfast,CityE,CityB,04:07:57,02:10:16,4,59
+Night Train,CityA,CityH,16:59:41,08:27:15,12,72
+Intercity,CityG,CityJ,14:08:17,06:23:17,11,61
+Express,CityC,CityH,01:25:20,09:37:41,10,78
+Express,CityC,CityH,05:40:28,04:43:02,10,83
+Express,CityI,CityH,05:52:56,20:08:31,3,38
+Regional,CityA,CityJ,18:59:07,10:27:16,6,47
+Night Train,CityE,CityB,00:49:07,05:23:41,2,29
+Regional,CityA,CityB,00:42:42,11:07:39,5,39
+Regional,CityG,CityD,23:18:11,19:24:32,8,58
+Regional,CityE,CityD,07:14:05,19:45:08,7,70
+Superfast,CityI,CityF,09:45:46,13:29:20,9,77
+Regional,CityG,CityJ,05:42:52,03:41:21,5,69
+Regional,CityI,CityD,11:42:47,09:24:41,8,60
+Express,CityI,CityD,07:01:02,10:14:25,9,55
+Superfast,CityE,CityD,00:58:25,08:23:32,11,63
+Express,CityI,CityD,07:10:49,15:57:30,5,68
+Night Train,CityG,CityB,17:20:07,10:34:48,8,19
+Night Train,CityC,CityB,11:40:39,12:33:11,3,18
+Intercity,CityA,CityJ,13:36:47,10:06:35,8,34
+Regional,CityG,CityF,21:28:11,08:34:17,8,69
+Regional,CityC,CityD,01:51:30,04:29:01,5,2
+Regional,CityG,CityH,22:03:15,05:01:13,3,18
+Intercity,CityG,CityF,17:47:33,04:24:43,9,100
+Night Train,CityG,CityB,14:40:51,07:36:06,10,49
