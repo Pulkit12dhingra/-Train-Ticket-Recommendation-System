@@ -121,10 +121,15 @@ pytest tests/
 * 5️⃣ Provides API & CLI → Users can get recommendations via API or interactive CLI.
 
 📌 Technologies Used
+
 ✅ Python → Core programming language
+
 ✅ LangChain → Text embedding model for recommendations
+
 ✅ FAISS → Vector database for fast retrieval
+
 ✅ FastAPI → REST API for ticket recommendations
+
 ✅ pytest → Unit testing framework
 
 🚀 Happy Coding! 🎉
